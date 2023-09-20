@@ -1,7 +1,7 @@
 # Language_detection
 * This is language detection project for detection of language for a given text
 * This can be used to identify the language of the text from the given languages using machine learning and natural language processing
-##Techstack:
+## Techstack:
 * Scikit-learn
 * pandas
 * numpy
