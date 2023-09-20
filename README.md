@@ -9,9 +9,11 @@ You can import the dataset directly by using the following code:
 >data = pd.read_csv("https://raw.githubusercontent.com/amankharwal/Website-data/master/dataset.csv")<br/>
 >data.head()
 
+![](https://github.com/lakshayd760/Language_detection/blob/main/Images/Annotation%202023-09-20%20131815.png)<br/>
 Our dataset consist of 22 different languages with 1000 sentences for each language
 > data["language"].value_counts()
 
+![](https://github.com/lakshayd760/Language_detection/blob/main/Images/Annotation%202023-09-20%20132109.png)<br/>
 ## Model Training
 ### Preprocessing 
 For preprocessing firstly we have to remove null values from the data<br/>
